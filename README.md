@@ -1,11 +1,11 @@
-# HangMan-Game
+## HangMan-Game
 A Typical Hangman Game with A GUI 
 Where you can play around
 
 If you need more Words just Add more Words to the Words.txt file
 
 # IDE used:
-Eclipse
+Eclipse 
 # Note:
 To run it on Eclipse you have to configure build path to the Cloned Directory
 
